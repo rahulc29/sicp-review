@@ -17,8 +17,8 @@ image::cover.jpg[align="center"]
 Useful links:
 
 * https://mitpress.mit.edu/sites/default/files/sicp/index.html[Official site for SICP]
-* https://www.gnu.org/software/mit-scheme/documentation/stable/mit-scheme-ref.pdf[Mit Scheme Reference]
-* https://www.gnu.org/software/mit-scheme/documentation/stable/mit-scheme-user.pdf[Mit Scheme User's Manual]
+* https://www.gnu.org/software/mit-scheme/documentation/stable/mit-scheme-ref.pdf[MIT Scheme Reference]
+* https://www.gnu.org/software/mit-scheme/documentation/stable/mit-scheme-user.pdf[MIT Scheme User's Manual]
 
 == Setup
 
